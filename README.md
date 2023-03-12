@@ -1,8 +1,3 @@
 # GitPokus
 
-
-pokus
-
-hhh
-
-ano
+xddd
